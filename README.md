@@ -1,16 +1,65 @@
-!["Full Stack Kanban App | React Node MongoDB Material-UI"](https://user-images.githubusercontent.com/67447840/177310317-3d9ad738-af83-4cc1-976a-c4a54c1033ff.png "Full Stack Kanban App | React Node MongoDB Material-UI")
+# Screenshots of the todo page #
 
-# Video tutorial
+## Todo page of Academics section which displays Todo,InProgress,Done tasks ##
 
-    https://youtu.be/sqGowdB1tvY
+![image](https://github.com/Rhythmshah21/Todo_Mern/assets/102286539/5452b1dc-8e97-4137-8634-94675fde20d1)
 
-# Reference
 
-    - Create react app:https://create-react-app.dev/
-    - React beautiful dnd: https://github.com/atlassian/react-beautiful-dnd/
-    - Material-UI: https://mui.com/
-    - Express: https://expressjs.com/
+## Todo page of Internship section which displays Todo,InProgress,Done tasks ##
 
-# Preview
+![image](https://github.com/Rhythmshah21/Todo_Mern/assets/102286539/28c0cba7-8a7f-4b2d-bce9-e6a255f14d58)
 
-!["Full Stack Kanban App | React Node MongoDB Material-UI"](https://user-images.githubusercontent.com/67447840/177310521-764f8ff7-5e3d-4644-ac0a-273cf83e48aa.gif "Full Stack Kanban App | React Node MongoDB Material-UI")
+
+## MongoDB ##
+
+![image](https://github.com/Rhythmshah21/Todo_Mern/assets/102286539/45e8d9de-65c1-4fdb-aec3-1ea2b5287e02)
+![image](https://github.com/Rhythmshah21/Todo_Mern/assets/102286539/7d38f4b4-3e2c-4460-af59-606d4dac6266)
+
+
+
+# Video link of the Software #
+
+https://drive.google.com/drive/folders/1g0e-pcAF4oOEknQ4t9jxv01YJ9ZgrmH4
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Rhythmshah21/Todo_Mern.git
+   
+2. Move to client:
+
+   ```bash
+   cd Todo_Mern/client
+
+3. Install dependencies:
+   
+   ```bash
+   yarn
+
+4. Start the development server:
+
+   ```bash
+   yarn start
+   
+5. Move to server:
+
+   ```bash
+   cd Todo_Mern/server
+
+6. Install dependencies:
+   
+   ```bash
+   yarn
+
+7. Start the development server:
+
+   ```bash
+   yarn start
+
+
+
+
+
+
